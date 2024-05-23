@@ -1,0 +1,88 @@
+h1{
+    text-align: right;
+}
+
+body{
+    margin:20px 20px 5px 20px;
+    padding-top: 20px ;
+    height: 2500px;
+    width: 2000px;
+    max-width:max-content;
+    max-height: max-content;
+    border: 10px solid black;
+    background-image: url("./bokeh-defocused-background_23-2148497833.avif");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.laura{
+    height: 400px;
+    width: 1000px;
+    text-align: right;
+    background-color: lightslategray;
+    border: 5px solid black;
+    padding: 10px 10px 0px 20px;
+    margin-left:500px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+} 
+
+.html1{
+    padding: 10px ;
+    margin: 20px ;
+    height: auto;
+    width:900px; 
+    border: 5px solid black;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: left;
+    background-color: rgb(132, 103, 159);
+
+}
+
+.html img{
+    display: inline;
+}
+
+.html1 ul{
+    list-style-type: none;
+}
+
+.tech{
+    display: inline;
+} 
+
+ .html2{
+  
+    margin-left:550px ;
+    margin-right:100px;
+    padding:10px 20px 10px 10px;
+    background-color: beige;
+    text-align: right;
+    width: 900px;
+   
+   
+    
+ }
+
+ .html2 ul li{
+    list-style-type: none;
+
+}
+
+.lag{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.html3{
+    margin:20px 300px 20px 300px;
+    max-width: auto;
+    background-color: lightgrey;
+    text-align: center;
+   
+}
+
